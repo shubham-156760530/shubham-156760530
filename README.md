@@ -11,4 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-156760530&hide=contribs&show_icons=true&theme=highcontrast)](https://github.com/shubham-156760530/github-readme-stats)
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-156760530&hide=contribs&show_icons=true&theme=react)](https://github.com/shubham-156760530/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubham-156760530&repo=github-readme-stats&theme=react)](https://github.com/shubham-156760530/github-readme-stats)
